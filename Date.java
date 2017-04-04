@@ -15,7 +15,7 @@ public class Date {
 
 		SimpleDateFormat sdf = new SimpleDateFormat("yyyy-MM-dd hh:mm:ss");
 		String s = sdf.format(gc.getTime());
-		System.out.println("Today date is ----->  ::"+s);
+		System.out.println("Today date is - My Birthday---->  ::"+s);
 	}
 	
 }
